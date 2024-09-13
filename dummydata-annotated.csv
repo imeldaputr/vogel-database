@@ -1,0 +1,11 @@
+#group,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+#datatype,string,long,dateTime:RFC3339,string,string,string,string,double,string
+#default,_result,,,,,,,,
+,result,table,_time,end,_measurement,_field,common_name,_value,audio_location
+,,0,2024-08-14T08:48:39Z,2024-08-14T08:48:51Z,vogel,Branta canadensis,Canada Goose,0.9028538,datasets\CanadaGoose\722721.mp3
+,,0,2024-08-15T04:34:40Z,2024-08-15T04:34:43Z,vogel,Branta canadensis,Canada Goose,0.9315642,datasets\CanadaGoose\722721.mp3
+,,0,2024-08-16T08:06:42Z,2024-08-16T08:06:45Z,vogel,Branta canadensis,Canada Goose,0.9334498,datasets\CanadaGoose\722721.mp3
+,,0,2024-08-17T22:34:03Z,2024-08-17T22:34:06Z,vogel,Branta canadensis,Canada Goose,0.92597574,datasets\CanadaGoose\722721.mp3
+,,0,2024-08-18T10:34:10Z,2024-08-18T10:34:13Z,vogel,Anser anser,Graylag Goose,0.93889666,datasets\GreylagGoose\42015.mp3
+,,0,2024-08-19T02:52:29Z,2024-08-19T02:52:32Z,vogel,Ardea cinerea,Gray Heron,0.20357549,datasets\GreylagGoose\42015.mp3
+,,0,2024-08-20T22:48:34Z,2024-08-20T22:48:37Z,vogel,Anser anser,Graylag Goose,0.3154083,datasets\GreylagGoose\42006.mp3
